@@ -1,4 +1,4 @@
-<h1>📊 Data Understanding – Learning Notes (By Yusuf)</h1>
+<h1>📊 Data Understanding – Learning Notes (By Yusuf Abdurrahman)</h1>
 <p><em>"Before you clean it, you need to understand it."</em></p>
 
 <h2>🔍 What I Learned in Data Understanding</h2>
